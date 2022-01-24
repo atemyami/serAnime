@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seranime/static/css/main.bf4a00fd.css",
+    "main.js": "/seranime/static/js/main.eb18997f.js",
+    "static/js/787.5c775249.chunk.js": "/seranime/static/js/787.5c775249.chunk.js",
+    "static/media/computer.jpeg": "/seranime/static/media/computer.31f05b0a0c9438205b70.jpeg",
+    "index.html": "/seranime/index.html",
+    "main.bf4a00fd.css.map": "/seranime/static/css/main.bf4a00fd.css.map",
+    "main.eb18997f.js.map": "/seranime/static/js/main.eb18997f.js.map",
+    "787.5c775249.chunk.js.map": "/seranime/static/js/787.5c775249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4a00fd.css",
+    "static/js/main.eb18997f.js"
+  ]
+}
